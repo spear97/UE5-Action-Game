@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\seanp\\Documents\\Unreal Projects\\ActionGame\\Source\\ActionGame\\ActionGame.Build.cs",
-		"C:\\Users\\seanp\\Documents\\Unreal Projects\\ActionGame\\Source\\ActionGame.Target.cs",
-		"C:\\Users\\seanp\\Documents\\Unreal Projects\\ActionGame\\Source\\ActionGameEditor.Target.cs"
+		"C:\\Users\\seanp\\Documents\\Github\\UE5-Action-Game\\ActionGame\\Source\\ActionGame\\ActionGame.Build.cs",
+		"C:\\Users\\seanp\\Documents\\Github\\UE5-Action-Game\\ActionGame\\Source\\ActionGame.Target.cs",
+		"C:\\Users\\seanp\\Documents\\Github\\UE5-Action-Game\\ActionGame\\Source\\ActionGameEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }

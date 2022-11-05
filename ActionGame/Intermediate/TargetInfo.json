@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ActionGame",
-			"Path": "C:\\Users\\seanp\\Documents\\Unreal Projects\\ActionGame\\Source\\ActionGame.Target.cs",
+			"Path": "C:\\Users\\seanp\\Documents\\Github\\UE5-Action-Game\\ActionGame\\Source\\ActionGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ActionGameEditor",
-			"Path": "C:\\Users\\seanp\\Documents\\Unreal Projects\\ActionGame\\Source\\ActionGameEditor.Target.cs",
+			"Path": "C:\\Users\\seanp\\Documents\\Github\\UE5-Action-Game\\ActionGame\\Source\\ActionGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
