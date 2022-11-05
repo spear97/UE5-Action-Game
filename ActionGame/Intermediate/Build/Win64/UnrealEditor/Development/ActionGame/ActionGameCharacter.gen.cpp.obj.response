@@ -1,8 +1,11 @@
 C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Win64\UnrealEditor\Inc\ActionGame\ActionGameCharacter.gen.cpp
 /I .
-/I C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Win64\UnrealEditor\Inc\ActionGame
-/I C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Source
+/I C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Source\ActionGame\Private
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule
 /I Runtime
+/I Runtime\NavigationSystem\Public
+/I Runtime\AIModule\Public
+/I Runtime\AIModule\Classes
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
@@ -187,7 +190,6 @@ C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Wi
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\PropertyPath
 /I Runtime\PropertyPath\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NavigationSystem
-/I Runtime\NavigationSystem\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\GeometryCollectionEngine
 /I Runtime\Experimental\GeometryCollectionEngine\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MaterialShaderQualitySettings
@@ -246,13 +248,13 @@ C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Wi
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayTasks
 /I Runtime\GameplayTasks\Classes
 /I Runtime\GameplayTasks\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule
-/I Runtime\AIModule\Public
-/I Runtime\AIModule\Classes
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
+/I C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Win64\UnrealEditor\Inc\ActionGame
+/I C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Source
+/I C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Source\ActionGame\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh
