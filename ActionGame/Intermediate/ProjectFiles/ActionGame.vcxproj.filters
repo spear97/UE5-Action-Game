@@ -59,23 +59,5 @@
     <ClInclude Include="..\..\Source\ActionGame\ActionGameGameMode.h">
       <Filter>Source\ActionGame</Filter>
     </ClInclude>
-    <Filter Include="Source\ActionGame\Private">
-      <UniqueIdentifier>{B3B840D5-7A88-39A2-8C91-263C64BDD103}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\ActionGame\Private\AI_Bot.cpp">
-      <Filter>Source\ActionGame\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\ActionGame\Private\AI_CON.cpp">
-      <Filter>Source\ActionGame\Private</Filter>
-    </ClCompile>
-    <Filter Include="Source\ActionGame\Public">
-      <UniqueIdentifier>{94942A2C-FE65-38B8-A070-988C64609395}</UniqueIdentifier>
-    </Filter>
-    <ClInclude Include="..\..\Source\ActionGame\Public\AI_Bot.h">
-      <Filter>Source\ActionGame\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\ActionGame\Public\AI_CON.h">
-      <Filter>Source\ActionGame\Public</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

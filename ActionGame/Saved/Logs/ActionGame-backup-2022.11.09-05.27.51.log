@@ -1,0 +1,1292 @@
+﻿Log file open, 11/08/22 22:47:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10604)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ActionGame
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\ActionGame.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 4800H with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ecd9199d462500b0e266799423cb059b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.306707
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D951DDEE4079AA37B28DFEB1AB85B6CE
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Warning: Incompatible or missing module: ActionGame
+Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe Development Win64 -Project="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/ActionGame.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Log file: C:\Users\seanp\AppData\Local\UnrealBuildTool\Log.txt
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\seanp\Documents\Github\UE5-Action-Game).
+Creating makefile for ActionGameEditor (no existing makefile)
+@progress push 5%
+Parsing headers for ActionGameEditor
+  Running UnrealHeaderTool "C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\ActionGame.uproject" "C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Win64\ActionGameEditor\Development\ActionGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\seanp\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+Reflection code generated for ActionGameEditor in 1.6380066 seconds
+@progress pop
+Building ActionGameEditor...
+Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+  Executing up to 8 processes, one per physical core
+  Requested 1.5 GB free memory per action, 7.99 GB available: limiting max parallel actions to 5
+Building 10 actions with 5 processes...
+[1/10] Compile SharedPCH.Engine.ShadowErrors.cpp
+[2/10] Compile ActionGame.init.gen.cpp
+[3/10] Compile ActionGame.cpp
+[4/10] Compile ActionGameGameMode.gen.cpp
+[5/10] Compile ActionGameCharacter.gen.cpp
+[6/10] Compile ActionGameGameMode.cpp
+[7/10] Compile ActionGameCharacter.cpp
+[8/10] Link UnrealEditor-ActionGame.lib
+   Creating library C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Win64\UnrealEditor\Development\ActionGame\UnrealEditor-ActionGame.lib and object C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Win64\UnrealEditor\Development\ActionGame\UnrealEditor-ActionGame.exp
+[9/10] Link UnrealEditor-ActionGame.dll
+   Creating library C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Win64\UnrealEditor\Development\ActionGame\UnrealEditor-ActionGame.suppressed.lib and object C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Intermediate\Build\Win64\UnrealEditor\Development\ActionGame\UnrealEditor-ActionGame.suppressed.exp
+[10/10] WriteMetadata ActionGameEditor.target
+Total time in Parallel executor: 47.12 seconds
+Total execution time: 50.85 seconds
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: AMD Ryzen 7 4800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.09-04.48.21:264][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.09-04.48.21:264][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.09-04.48.21:264][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.09-04.48.21:264][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.09-04.48.21:265][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.09-04.48.21:265][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.09-04.48.21:265][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.09-04.48.21:273][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.09-04.48.21:303][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.09-04.48.21:303][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.09-04.48.21:511][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.09-04.48.21:512][  0]LogD3D12RHI: Adapter has 5979MB of dedicated video memory, 0MB of dedicated system memory, and 7865MB of shared system memory, 2 output[s]
+[2022.11.09-04.48.21:800][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.11.09-04.48.21:800][  0]LogD3D12RHI: Adapter has 496MB of dedicated video memory, 0MB of dedicated system memory, and 7865MB of shared system memory, 0 output[s]
+[2022.11.09-04.48.21:822][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.09-04.48.21:822][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7865MB of shared system memory, 0 output[s]
+[2022.11.09-04.48.21:822][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.09-04.48.21:822][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.09-04.48.21:822][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.09-04.48.21:823][  0]LogHAL: Display: Platform has ~ 16 GB [16495517696 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.09-04.48.21:823][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.09-04.48.21:823][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.09-04.48.21:823][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.09-04.48.21:823][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.09-04.48.21:823][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.09-04.48.21:824][  0]LogInit: Computer: LAPTOP-304JBCSU
+[2022.11.09-04.48.21:824][  0]LogInit: User: seanp
+[2022.11.09-04.48.21:824][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.09-04.48.21:824][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.09-04.48.21:824][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.11.09-04.48.21:824][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.09-04.48.21:824][  0]LogMemory: Process Physical Memory: 295.24 MB used, 331.62 MB peak
+[2022.11.09-04.48.21:824][  0]LogMemory: Process Virtual Memory: 265.46 MB used, 265.46 MB peak
+[2022.11.09-04.48.21:824][  0]LogMemory: Physical Memory: 7762.45 MB used,  7968.90 MB free, 15731.35 MB total
+[2022.11.09-04.48.21:824][  0]LogMemory: Virtual Memory: 14051.20 MB used,  26256.16 MB free, 40307.35 MB total
+[2022.11.09-04.48.21:824][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.09-04.48.21:833][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.09-04.48.21:869][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.09-04.48.21:872][  0]LogInit: Using OS detected language (en-US).
+[2022.11.09-04.48.21:872][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.09-04.48.21:887][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.09-04.48.22:096][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.09-04.48.22:106][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.09-04.48.22:106][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.09-04.48.22:106][  0]LogWindowsTextInputMethodSystem:   - Greek (Greece) - (Keyboard).
+[2022.11.09-04.48.22:106][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.09-04.48.22:143][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.09-04.48.22:143][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.09-04.48.22:472][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.09-04.48.22:477][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.09-04.48.22:477][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.09-04.48.22:583][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.09-04.48.22:584][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.09-04.48.22:584][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.09-04.48.22:584][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.09-04.48.22:584][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.09-04.48.22:584][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.09-04.48.22:644][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.09-04.48.22:652][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.09-04.48.22:667][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.09-04.48.22:698][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.09-04.48.22:698][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.09-04.48.22:739][  0]LogD3D12RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.09-04.48.22:739][  0]LogWindows: Attached monitors:
+[2022.11.09-04.48.22:739][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1026), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.09-04.48.22:739][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY4'
+[2022.11.09-04.48.22:739][  0]LogWindows: Found 2 attached monitors.
+[2022.11.09-04.48.22:739][  0]LogWindows: EnumDisplayDevices:
+[2022.11.09-04.48.22:740][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.09-04.48.22:740][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.09-04.48.22:740][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.09-04.48.22:741][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1), name: '\\.\DISPLAY4'
+[2022.11.09-04.48.22:741][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.11.09-04.48.22:741][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.11.09-04.48.22:741][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.11.09-04.48.22:742][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.11.09-04.48.22:742][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.11.09-04.48.22:742][  0]LogD3D12RHI:   Driver Version: 526.47 (internal:31.0.15.2647, unified:526.47)
+[2022.11.09-04.48.22:742][  0]LogD3D12RHI:      Driver Date: 10-25-2022
+[2022.11.09-04.48.22:742][  0]LogRHI: Texture pool is 3282 MB (70% of 4689 MB)
+[2022.11.09-04.48.22:742][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.09-04.48.22:742][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.09-04.48.22:781][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.09-04.48.22:795][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/ActionGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/TurnkeyReport_0.log" -log="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/TurnkeyLog_0.log" -project="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/ActionGame.uproject"  -platform=all'
+[2022.11.09-04.48.22:795][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/ActionGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/TurnkeyReport_0.log" -log="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/TurnkeyLog_0.log" -project="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/ActionGame.uproject"  -platform=all" ]
+[2022.11.09-04.48.22:867][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.09-04.48.22:889][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.09-04.48.22:889][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.09-04.48.22:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.09-04.48.22:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.09-04.48.22:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.09-04.48.22:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.09-04.48.22:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.09-04.48.22:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.09-04.48.22:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.09-04.48.22:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.09-04.48.22:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.09-04.48.22:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.09-04.48.22:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.09-04.48.22:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.09-04.48.22:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.09-04.48.22:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.09-04.48.22:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.09-04.48.22:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.09-04.48.22:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.09-04.48.22:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.09-04.48.22:977][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.09-04.48.22:995][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.09-04.48.22:999][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.09-04.48.22:999][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.09-04.48.22:999][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.09-04.48.22:999][  0]LogTargetPlatformManager:   PCM
+[2022.11.09-04.48.23:004][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.09-04.48.23:004][  0]LogTargetPlatformManager:   BINKA
+[2022.11.09-04.48.23:004][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.09-04.48.23:004][  0]LogTargetPlatformManager:   OGG
+[2022.11.09-04.48.23:004][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.09-04.48.23:004][  0]LogTargetPlatformManager:   OPUS
+[2022.11.09-04.48.23:101][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.09-04.48.23:112][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.09-04.48.23:119][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.09-04.48.23:119][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.09-04.48.23:119][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.09-04.48.23:119][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.09-04.48.23:119][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.09-04.48.23:119][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.09-04.48.23:119][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.09-04.48.23:120][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.09-04.48.23:122][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.09-04.48.23:122][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.09-04.48.23:123][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.09-04.48.23:123][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.09-04.48.23:130][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.09-04.48.23:130][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.09-04.48.23:130][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.09-04.48.23:130][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.09-04.48.23:156][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.09-04.48.23:157][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.09-04.48.23:157][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.09-04.48.23:171][  0]LogDerivedDataCache: Speed tests for C:/Users/seanp/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.09-04.48.23:171][  0]LogDerivedDataCache: Display: Performance to C:/Users/seanp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.21ms. RandomReadSpeed=175.64MBs, RandomWriteSpeed=153.34MBs. Assigned SpeedClass 'Local'
+[2022.11.09-04.48.23:173][  0]LogDerivedDataCache: Using Local data cache path C:/Users/seanp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.09-04.48.23:173][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.09-04.48.23:173][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.09-04.48.23:179][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.09-04.48.23:179][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.09-04.48.23:184][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/Shaders/WorkingDirectory/15992/).
+[2022.11.09-04.48.23:184][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/seanp/AppData/Local/Temp/UnrealShaderWorkingDir/F95AC5F9400F5C3970395D896A4AF29C/'.
+[2022.11.09-04.48.23:184][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.09-04.48.23:185][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.09-04.48.24:978][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.09-04.48.24:978][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.09-04.48.24:982][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.09-04.48.25:064][  0]LogAssetRegistry: FAssetRegistry took 0.0189 seconds to start up
+[2022.11.09-04.48.25:073][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.09-04.48.25:449][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.09-04.48.25:457][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.09-04.48.26:008][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.09-04.48.26:008][  0]LogDeviceProfileManager: Active device profile: [00000A6BCA326AC0][00000A6BAC650000 50] WindowsEditor
+[2022.11.09-04.48.26:008][  0]LogDeviceProfileManager: Profiles: [00000A6BCA326580][00000A6BBBF45000 50] Windows, [00000A6BCA326AC0][00000A6BAC650000 50] WindowsEditor, [00000A6BCA324600][00000A6BCA5E0000 50] WindowsServer, [00000A6BCA321F80][00000A6BCA5E5000 50] WindowsClient, [00000A6BCA325780][00000A6BCA5E7800 50] IOS, [00000A6BCA325E80][00000A6BCA5EA000 50] iPadAir2, [00000A6BCA3263C0][00000A6BBBD1A000 50] IPadPro, [00000A6BCA326200][00000A6BCA5EC800 50] iPadAir3, [00000A6BCA322680][00000A6BCA5F0000 50] iPadAir4, [00000A6BCA322300][00000A6BCA5F5000 50] iPadMini4, [00000A6BCA324440][00000A6BCA5F7800 50] iPadMini5, [00000A6BCA324D00][00000A6BCA5FA000 50] iPadMini6, [00000A6BCA329BC0][00000A6BCA640000 50] iPhone6S, [00000A6BCA329F40][00000A6BCA642800 50] iPhone7, [00000A6BCA32A2C0][00000A6BCA645000 50] iPodTouch7, [00000A6BCA323640][00000A6BCA64A000 50] iPhone6SPlus, [00000A6BCA3294C0][00000A6BCA64C800 50] iPhone7Plus, [00000A6BCA321DC0][00000A6BCA5E2800 50] iPhoneSE, [00000A6BCA325B00][00000A6BCA5FC800 50] iPhone8, [00000A6BCA329300][00000A6BCA647800 50] iPhone8Plus, [00000A6BCA322F40][00000A6BCA610000 50] iPhoneX, [00000A6BCA3224C0][00000A6BCA615000 50] iPhoneXS, [00000A6BCA329140][00000A6BCA617800 50] iPhoneXSMax, [00000A6BCA32A800][00000A6BCA61A000 50] iPhoneXR, [00000A6BCA325240][00000A6BCA61C800 50] iPhone11, [00000A6BCA328F80][00000A6BCA5F2800 50] iPhone11Pro, [00000A6BCA326040][00000A6BCA620000 50] iPhone11ProMax, [00000A6BCA329D80][00000A6BCA625000 50] iPhoneSE2, [00000A6BCA32AB80][00000A6BCA627800 50] iPhone12Mini, [00000A6BCA329680][00000A6BCA62A000 50] iPhone12, [00000A6BCA32A640][00000A6BCA62C800 50] iPhone12Pro, [00000A6BCA32A100][00000A6BCA612800 50] iPhone12ProMax, [00000A6BCA322D80][00000A6BCA630000 50] iPhone13Mini, [00000A6BCA327700][00000A6BCA635000 50] iPhone13, [00000A6BCA327000][00000A6BCA637800 50] iPhone13Pro, [00000A6BCA328340][00000A6BCA63A000 50] iPhone13ProMax, [00000A6BCA323480][00000A6BCA63C800 50] iPadPro105, [00000A6BCA325400][00000A6BCA622800 50] iPadPro129, [00000A6BCA325CC0][00000A6BCA650000 50] iPadPro97, [00000A6BCA328DC0][00000A6BCA655000 50] iPadPro2_129, [00000A6BCA326C80][00000A6BCA657800 50] iPad5, [00000A6BCA328500][00000A6BCA65A000 50] iPad6, [00000A6BCA322840][00000A6BCA65C800 50] iPad7, [00000A6BCA324EC0][00000A6BCA632800 50] iPad8, [00000A6BCA328C00][00000A6BCA660000 50] iPad9, [00000A6BCA3239C0][00000A6BCA665000 50] iPadPro11, [00000A6BCA328A40][00000A6BCA667800 50] iPadPro2_11, [00000A6BCA3247C0][00000A6BCA66A000 50] iPadPro3_11, [00000A6BCA322BC0][00000A6BCA66C800 50] iPadPro3_129, [00000A6BCA327C40][00000A6BCA652800 50] iPadPro4_129, [00000A6BCA328180][00000A6BCA670000 50] iPadPro5_129, [00000A6BCA3240C0][00000A6BCA675000 50] AppleTV, [00000A6BCA326900][00000A6BCA677800 50] AppleTV4K, [00000A6BCA329840][00000A6BCA67A000 50] TVOS, [00000A6BCA32C240][00000A6BCA662800 50] Mac, [00000A6BCA32C5C0][00000A6BCA67C800 50] MacEditor, [00000A6BCA3232C0][00000A6BCA680000 50] MacClient, [00000A6BCA324280][00000A6BCA685000 50] MacServer, [00000A6BCA3278C0][00000A6BCA68A000 50] Linux, [00000A6BCA32C940][00000A6BCA687800 50] LinuxEditor, [00000A6BCA3286C0][00000A6BCA68C800 50] LinuxArm64Editor, [00000A6BCA32C080][00000A6BCA672800 50] LinuxArm64, [00000A6BCA32C400][00000A6BCA690000 50] LinuxClient, [00000A6BCA32A9C0][00000A6BCA695000 50] LinuxArm64Client, [00000A6BCA323100][00000A6BCA697800 50] LinuxServer, [00000A6BCA323D40][00000A6BCA69A000 50] LinuxArm64Server, [00000A6BCA322A00][00000A6BCA69C800 50] Android, [00000A6BCA32AD40][00000A6BCA682800 50] Android_Preview_OpenGL, [00000A6BCA32B7C0][00000A6BCA6A0000 50] Android_Preview_Vulkan, [00000A6BCA328880][00000A6BCA6A5000 50] Android_Low, [00000A6BCA327540][00000A6BCA6A7800 50] Android_Mid, [00000A6BCA32C780][00000A6BCA6AA000 50] Android_High, [00000A6BCA323F00][00000A6BCA6AC800 50] Android_Default, [00000A6BCA32BEC0][00000A6BCA692800 50] Android_Adreno4xx, [00000A6BCA32AF00][00000A6BCA6B0000 50] Android_Adreno5xx_Low, [00000A6BCA3255C0][00000A6BCA6B5000 50] Android_Adreno5xx, [00000A6BCA324B40][00000A6BCA6B7800 50] Android_Adreno6xx, [00000A6BCA32B0C0][00000A6BCA6BA000 50] Android_Adreno6xx_Vulkan, [00000A6BCA325940][00000A6BCA6BC800 50] Android_Adreno7xx, [00000A6BCA329A00][00000A6BCA6A2800 50] Android_Adreno7xx_Vulkan, [00000A6BCA32BD00][00000A6BCA6C0000 50] Android_Mali_T6xx, [00000A6BCA32CCC0][00000A6BCA6C5000 50] Android_Mali_T7xx, [00000A6BCA327E00][00000A6BCA6C7800 50] Android_Mali_T8xx, [00000A6BCA32D3C0][00000A6BCA6CA000 50] Android_Mali_G71, [00000A6BCA323B80][00000A6BCA6CC800 50] Android_Mali_G72, [00000A6BCA32CE80][00000A6BCA6B2800 50] Android_Mali_G72_Vulkan, [00000A6BCA327380][00000A6BCA6D0000 50] Android_Mali_G76, [00000A6BCA3271C0][00000A6BCA6D5000 50] Android_Mali_G76_Vulkan, [00000A6BCA32DC80][00000A6BCA6D7800 50] Android_Mali_G77, [00000A6BCA32B440][00000A6BCA6DA000 50] Android_Mali_G77_Vulkan, [00000A6BCA32D040][00000A6BCA6DC800 50] Android_Mali_G78, [00000A6BCA32BB40][00000A6BCA6C2800 50] Android_Mali_G78_Vulkan, [00000A6BCA32D740][00000A6BCA6E0000 50] Android_Mali_G710, [00000A6BCA32E540][00000A6BCA6E5000 50] Android_Mali_G710_Vulkan, [00000A6BCA32DAC0][00000A6BCA6E7800 50] Android_Xclipse_920, [00000A6BCA32DE40][00000A6BCA6EA000 50] Android_Xclipse_920_Vulkan, [00000A6BCA326E40][00000A6BCA6EC800 50] Android_Vulkan_SM5, [00000A6BCA32E000][00000A6BCA6D2800 50] Android_PowerVR_G6xxx, [00000A6BCA32EE00][00000A6BCA6F0000 50] Android_PowerVR_GT7xxx, [00000A6BCA325080][00000A6BCA6F5000 50] Android_PowerVR_GE8xxx, [00000A6BCA32B980][00000A6BCA6F7800 50] Android_PowerVR_GM9xxx, [00000A6BCA32A480][00000A6BCA6FA000 50] Android_PowerVR_GM9xxx_Vulkan, [00000A6BCA32B280][00000A6BCA6FC800 50] Android_TegraK1, [00000A6BCA32F880][00000A6BCA6E2800 50] Android_Unknown_Vulkan, [00000A6BCA324980][00000A6BCA700000 50] Oculus_Quest, [00000A6BCA32EC40][00000A6BCA705000 50] Oculus_Quest2, [00000A6BCA327FC0][00000A6BCA707800 50] HoloLens, 
+[2022.11.09-04.48.26:008][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.09-04.48.26:019][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2022.11.09-04.48.26:019][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.11.09-04.48.26:019][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.09-04.48.26:019][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.09-04.48.26:019][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.09-04.48.26:083][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.09-04.48.26:753][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.09-04.48.26:753][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.09-04.48.26:753][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.09-04.48.26:753][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.09-04.48.26:753][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.09-04.48.26:793][  0]LogNetVersion: ActionGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3295825841)
+[2022.11.09-04.48.27:029][  0]LogSlate: Border
+[2022.11.09-04.48.27:029][  0]LogSlate: BreadcrumbButton
+[2022.11.09-04.48.27:029][  0]LogSlate: Default
+[2022.11.09-04.48.27:029][  0]LogSlate: Icons.Save
+[2022.11.09-04.48.27:029][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.09-04.48.27:029][  0]LogSlate: ListView
+[2022.11.09-04.48.27:029][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.09-04.48.27:029][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.09-04.48.27:029][  0]LogSlate: TableView.DarkRow
+[2022.11.09-04.48.27:029][  0]LogSlate: TableView.Row
+[2022.11.09-04.48.27:029][  0]LogSlate: TreeView
+[2022.11.09-04.48.27:374][  0]SourceControl: Source control is disabled
+[2022.11.09-04.48.27:417][  0]SourceControl: Source control is disabled
+[2022.11.09-04.48.27:417][  0]SourceControl: Source control is disabled
+[2022.11.09-04.48.27:565][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.09-04.48.27:565][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.11.09-04.48.27:565][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.09-04.48.28:542][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CCEAE1EB454C0FC72A237DBD42CB1BCF | Instance: 31B6B81E4FF0BAED1922949D17DB5B17 (LAPTOP-304JBCSU-15992).
+[2022.11.09-04.48.28:688][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.09-04.48.28:702][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.09-04.48.28:768][  0]LogPython: Using Python 3.9.7
+[2022.11.09-04.48.30:387][  0]SourceControl: Source control is disabled
+[2022.11.09-04.48.30:439][  0]SourceControl: Source control is disabled
+[2022.11.09-04.48.30:450][  0]LogUProjectInfo: Found projects:
+[2022.11.09-04.48.30:503][  0]SourceControl: Source control is disabled
+[2022.11.09-04.48.31:560][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.09-04.48.31:630][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.09-04.48.31:630][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.09-04.48.31:825][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.09-04.48.32:057][  0]LogCollectionManager: Loaded 0 collections in 0.002092 seconds
+[2022.11.09-04.48.32:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Collections/' took 0.00s
+[2022.11.09-04.48.32:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Developers/seanp/Collections/' took 0.00s
+[2022.11.09-04.48.32:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Collections/' took 0.00s
+[2022.11.09-04.48.32:815][  0]LogEngine: Initializing Engine...
+[2022.11.09-04.48.32:839][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.09-04.48.32:845][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.11.09-04.48.33:157][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.09-04.48.33:162][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-04.48.33:184][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.48.33:261][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.09-04.48.33:277][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.09-04.48.33:309][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.09-04.48.33:311][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.09-04.48.33:311][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.09-04.48.33:314][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.09-04.48.33:314][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.09-04.48.33:315][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-04.48.33:315][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-04.48.33:315][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-04.48.33:315][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-04.48.33:315][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-04.48.33:315][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-04.48.33:315][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-04.48.33:316][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-04.48.33:318][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-04.48.33:319][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-04.48.33:319][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-04.48.33:334][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-04.48.34:410][  0]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.09-04.48.34:414][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-04.48.34:417][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-04.48.34:417][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-04.48.34:420][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.09-04.48.34:420][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.09-04.48.34:422][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.09-04.48.34:422][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.09-04.48.34:422][  0]LogInit: FAudioDevice initialized.
+[2022.11.09-04.48.34:423][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.09-04.48.34:424][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.09-04.48.34:424][  0]LogInit: Texture streaming: Enabled
+[2022.11.09-04.48.34:493][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.09-04.48.34:507][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.09-04.48.34:545][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.09-04.48.34:557][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.09-04.48.34:557][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: ActionGameEditor Win64 Development
+[2022.11.09-04.48.35:682][  0]LogLiveCoding: Display: First instance in process group "UE_ActionGame_0x999f4b01", spawning console
+[2022.11.09-04.48.35:682][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.09-04.48.35:682][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.09-04.48.35:712][  0]LogInit: Transaction tracking system initialized
+[2022.11.09-04.48.35:868][  0]BlueprintLog: New page: Editor Load
+[2022.11.09-04.48.36:629][  0]LocalizationService: Localization service is disabled
+[2022.11.09-04.48.36:709][  0]TimingProfiler: Initialize
+[2022.11.09-04.48.36:709][  0]TimingProfiler: OnSessionChanged
+[2022.11.09-04.48.36:709][  0]LoadingProfiler: Initialize
+[2022.11.09-04.48.36:709][  0]LoadingProfiler: OnSessionChanged
+[2022.11.09-04.48.36:709][  0]NetworkingProfiler: Initialize
+[2022.11.09-04.48.36:709][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.09-04.48.36:709][  0]MemoryProfiler: Initialize
+[2022.11.09-04.48.36:709][  0]MemoryProfiler: OnSessionChanged
+[2022.11.09-04.48.38:025][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/' took 0.63s
+[2022.11.09-04.48.38:025][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.09-04.48.38:521][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.09-04.48.38:533][  0]SourceControl: Source control is disabled
+[2022.11.09-04.48.38:534][  0]LogUnrealEdMisc: Loading editor; pre map load, took 76.319
+[2022.11.09-04.48.38:538][  0]Cmd: MAP LOAD FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Levels/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.09-04.48.38:539][  0]LightingResults: New page: Lighting Build
+[2022.11.09-04.48.38:561][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-04.48.38:566][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-04.48.38:570][  0]MapCheck: New page: Map Check
+[2022.11.09-04.48.38:570][  0]LightingResults: New page: Lighting Build
+[2022.11.09-04.48.38:593][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-04.48.38:619][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.09-04.48.39:007][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameLevel'.
+[2022.11.09-04.48.39:017][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.48.39:018][  0]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.09-04.48.39:023][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.09-04.48.39:023][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.09-04.48.39:405][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_WallType1.SM_WallType1 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:424][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Wallup08.SM_Wallup08 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:427][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Wall_Small1.SM_Wall_Small1 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:435][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Wallup09.SM_Wallup09 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:445][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_WallS013b4.SM_WallS013b4 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:451][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Wallup04.SM_Wallup04 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:453][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Wall_Small10.SM_Wall_Small10 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:457][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_FloorPuzzle01b.SM_FloorPuzzle01b should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:463][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Wallup06.SM_Wallup06 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:479][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_FloorX4b.SM_FloorX4b should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:489][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_FloorX4e.SM_FloorX4e should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:503][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Wall_Small7.SM_Wall_Small7 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:516][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_FloorX4k.SM_FloorX4k should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:526][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_WallType1c.SM_WallType1c should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:531][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_WallType1b.SM_WallType1b should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:565][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_WallS013b6.SM_WallS013b6 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:592][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_FloorX4d.SM_FloorX4d should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:688][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Walls_CURVED01.SM_Walls_CURVED01 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.39:776][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_FloorX4h.SM_FloorX4h should be resaved to improve async compilation performance.
+[2022.11.09-04.48.40:407][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Wallup03.SM_Wallup03 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.41:590][  0]LogStaticMesh: StaticMesh /Game/SciFiProps/Meshes/SM_Walls_CURVED03.SM_Walls_CURVED03 should be resaved to improve async compilation performance.
+[2022.11.09-04.48.59:946][  0]LogWorldPartition: Display: WorldPartition initialize took 20.9 sec
+[2022.11.09-04.49.00:279][  0]LogEditorServer: Finished looking for orphan Actors (0.003 secs)
+[2022.11.09-04.49.00:316][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.09-04.49.00:318][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.09-04.49.00:338][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 19.007ms to complete.
+[2022.11.09-04.49.00:338][  0]LogFileHelpers: Loading map 'GameLevel' took 21.801
+[2022.11.09-04.49.00:366][  0]LogUnrealEdMisc: Total Editor Startup Time, took 98.152
+[2022.11.09-04.49.00:366][  0]LogShaderCompilers: Display: ================================================
+[2022.11.09-04.49.00:367][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.09-04.49.00:367][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.09-04.49.00:367][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.09-04.49.00:367][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.09-04.49.00:367][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.09-04.49.00:367][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.09-04.49.00:367][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.09-04.49.00:367][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.09-04.49.00:367][  0]LogShaderCompilers: Display: ================================================
+[2022.11.09-04.49.00:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-04.49.00:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-04.49.00:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-04.49.00:650][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-04.49.00:899][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:900][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:903][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:903][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:905][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:905][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:906][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:906][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:908][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:908][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:910][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:910][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:912][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:912][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:914][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:914][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:916][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:916][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:917][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.09-04.49.00:918][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.09-04.49.00:918][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.09-04.49.01:281][  0]LogSlate: Took 0.000538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.09-04.49.01:292][  0]LogSlate: Took 0.000558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.09-04.49.01:294][  0]LogSlate: Took 0.000494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.09-04.49.01:325][  0]LogViewport: Scene viewport resized to 1332x854, mode Windowed.
+[2022.11.09-04.49.02:488][  0]LogStall: Startup...
+[2022.11.09-04.49.02:491][  0]LogStall: Startup complete.
+[2022.11.09-04.49.02:626][  0]LogLoad: (Engine Initialization) Total time: 100.41 seconds
+[2022.11.09-04.49.02:626][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.09-04.49.02:722][  0]LogAssetRegistry: Asset discovery search completed in 37.6624 seconds
+[2022.11.09-04.49.02:739][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.11.09-04.49.02:838][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.09-04.49.12:518][294]LogSlate: Took 0.000624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.09-04.49.12:520][294]LogSlate: Took 0.000620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.09-04.49.12:604][294]LogSlate: Took 0.000571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.09-04.49.17:899][587]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.09-04.49.22:789][875]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.09-04.49.22:789][875]LogLiveCoding: Display: Live coding succeeded, no code changes detected
+[2022.11.09-04.49.48:591][313]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.09-04.49.51:813][496]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.09-04.49.51:813][496]LogLiveCoding: Display: Live coding succeeded, no code changes detected
+[2022.11.09-04.50.13:424][715]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.11.09-04.50.13:424][715]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.11.09-04.50.13:446][715]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/GameLevel.GameLevel:PersistentLevel.NavMeshBoundsVolume_0
+[2022.11.09-04.50.13:458][715]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/GameLevel.GameLevel:PersistentLevel.NavMeshBoundsVolume_0
+[2022.11.09-04.50.14:344][748]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.11.09-04.50.14:344][748]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.11.09-04.50.14:380][748]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/GameLevel.GameLevel:PersistentLevel.NavMeshBoundsVolume_UAID_BCE92F7FD373D24701_1526733095
+[2022.11.09-04.50.14:382][748]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/GameLevel.GameLevel:PersistentLevel.NavMeshBoundsVolume_UAID_BCE92F7FD373D24701_1526733095
+[2022.11.09-04.50.14:780][749]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/GameLevel.
+[2022.11.09-04.50.19:294][  9]LogViewport: Scene viewport resized to 1090x854, mode Windowed.
+[2022.11.09-04.50.24:708][307]LogDerivedDataCache: C:/Users/seanp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.533 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-04.51.10:516][574]LogViewport: Scene viewport resized to 1332x854, mode Windowed.
+[2022.11.09-04.51.12:769][662]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/GameLevel.
+[2022.11.09-04.51.32:905][815]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-304JBCSU
+[2022.11.09-04.51.32:905][815]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/ActionGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/TurnkeyReport_1.log" -log="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/TurnkeyLog_1.log" -project="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/ActionGame.uproject"  -Device=Win64@LAPTOP-304JBCSU'
+[2022.11.09-04.51.32:905][815]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/ActionGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/TurnkeyReport_1.log" -log="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Intermediate/TurnkeyLog_1.log" -project="C:/Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/ActionGame.uproject"  -Device=Win64@LAPTOP-304JBCSU" -nocompile ]
+[2022.11.09-04.51.33:908][871]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.11.09-04.51.33:908][871]LogTurnkeySupport: Turnkey Device: Win64@LAPTOP-304JBCSU: (Name=LAPTOP-304JBCSU, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.11.09-04.51.34:806][922]Cmd: SELECT NONE
+[2022.11.09-04.51.38:823][135]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-04.51.46:495][135]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.09-04.52.10:568][583]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.09-04.52.10:581][583]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.09-04.52.10:588][584]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.09-04.52.14:508][817]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.11.09-04.52.14:508][817]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.09-04.52.19:300][  2]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.09-04.52.19:320][  2]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.09-04.52.19:325][  2]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.09-04.52.19:352][  4]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.09-04.52.20:886][ 91]LogContentBrowser: Attempting asset rename: NewBlueprint -> Bot
+[2022.11.09-04.52.20:895][ 91]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.09-04.52.29:099][462]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.09-04.52.29:991][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-04.52.29:992][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.52.31:531][501]LogViewport: Scene viewport resized to 1106x646, mode Windowed.
+[2022.11.09-04.52.33:480][600]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.09-04.52.34:724][662]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.09-04.52.41:666][ 40]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.11.09-04.52.52:304][577]BlueprintLog: New page: Compile Bot
+[2022.11.09-04.52.52:465][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.11.09-04.52.52:895][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-04.52.52:944][591]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.048231 seconds
+[2022.11.09-04.52.52:955][591]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-04.52.52:955][591]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/BotC83E8E594DCE137D21D2F2AB86A41FCD.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-04.52.52:988][591]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-04.52.52:989][591]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-04.52.54:943][691]LogSlate: Window 'Bot' being destroyed
+[2022.11.09-04.52.54:959][691]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-04.52.54:959][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-04.52.59:345][930]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.11.09-04.52.59:346][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.53.00:008][931]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.09-04.53.01:095][993]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.11.09-04.53.01:110][993]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-04.53.01:110][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-04.53.01:169][993]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.11.09-04.53.01:169][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.53.01:689][993]LogSlate: Took 0.000805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.09-04.53.03:407][ 78]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.09-04.53.13:791][653]LogViewport: Scene viewport resized to 1106x646, mode Windowed.
+[2022.11.09-04.53.14:779][705]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.11.09-04.53.14:916][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.11.09-04.53.15:438][722]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.11.09-04.53.15:438][722]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/BP_ThirdPersonCharacter14C97F424B2BB45B142E808D1EA4DEC3.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.11.09-04.53.15:472][722]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.11.09-04.53.15:472][722]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.11.09-04.53.17:163][810]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.11.09-04.53.17:183][810]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-04.53.17:184][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-04.53.18:481][880]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-04.53.18:824][880]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.09-04.53.18:827][880]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.09-04.53.18:827][880]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.09-04.53.18:833][880]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.09-04.53.18:833][880]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.09-04.53.18:833][880]LogWorldPartition: Display: GetPartitionedActors took 6 ms
+[2022.11.09-04.53.18:959][880]LogWorldPartition: Display: GenerateStreaming took 135 ms
+[2022.11.09-04.53.18:968][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-04.53.18:969][880]PIE: New page: PIE session: GameLevel (Nov 8, 2022, 4:53:18 PM)
+[2022.11.09-04.53.18:976][880]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.09-04.53.18:977][880]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.09-04.53.18:977][880]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.09-04.53.21:020][880]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.09-04.53.21:023][880]LogPlayLevel: PIE: StaticDuplicateObject took: (2.045348s)
+[2022.11.09-04.53.21:023][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (2.045926s)
+[2022.11.09-04.53.21:024][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.53.21:025][880]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.09-04.53.21:038][880]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.09-04.53.21:038][880]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.09-04.53.21:530][880]LogWorldPartition: Display: WorldPartition initialize took 491 ms
+[2022.11.09-04.53.21:537][880]LogPlayLevel: PIE: World Init took: (0.514037s)
+[2022.11.09-04.53.21:590][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.11.09-04.53.21:598][880]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.09-04.53.21:598][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-04.53.21:598][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-04.53.21:598][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-04.53.21:598][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-04.53.21:598][880]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-04.53.21:598][880]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-04.53.21:598][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-04.53.21:598][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-04.53.21:599][880]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-04.53.21:599][880]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-04.53.21:599][880]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-04.53.21:602][880]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-04.53.21:768][880]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.09-04.53.21:768][880]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-04.53.21:768][880]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-04.53.21:768][880]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-04.53.21:769][880]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.09-04.53.21:769][880]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.09-04.53.21:771][880]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.09-04.53.21:771][880]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.09-04.53.21:771][880]LogInit: FAudioDevice initialized.
+[2022.11.09-04.53.21:771][880]LogAudio: Display: Audio Device (ID: 2) registered with world 'GameLevel'.
+[2022.11.09-04.53.21:796][880]LogLoad: Game class is 'ActionGameGameMode'
+[2022.11.09-04.53.22:685][880]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2022.11.08-22.53.22
+[2022.11.09-04.53.22:709][880]LogWorld: Bringing up level for play took: 0.913621
+[2022.11.09-04.53.22:713][880]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.11.09-04.53.22:752][880]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-296.690 Y=-4727.309 Z=384.667
+[2022.11.09-04.53.22:752][880]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.09-04.53.22:773][880]PIE: Server logged in
+[2022.11.09-04.53.22:774][880]PIE: Play in editor total start time 4.285 seconds.
+[2022.11.09-04.53.38:335][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-04.53.38:335][738]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.09-04.53.38:348][738]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-04.53.38:465][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-04.53.38:496][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-04.53.38:546][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-04.53.38:625][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-04.53.38:666][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.09-04.53.38:669][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.09-04.53.39:033][738]LogUObjectHash: Compacting FUObjectHashTables data took   9.78ms
+[2022.11.09-04.53.39:126][739]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.11.09-04.53.44:704][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-04.53.44:705][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.53.45:391][ 42]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.09-04.53.46:351][ 96]LogSlate: Window 'Bot' being destroyed
+[2022.11.09-04.53.46:372][ 96]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-04.53.46:372][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-04.53.46:433][ 96]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-04.53.46:433][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.53.57:385][554]LogSlate: Window 'Bot' being destroyed
+[2022.11.09-04.53.57:389][554]LogSlate: Window 'Bot' being destroyed
+[2022.11.09-04.53.57:394][554]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-04.53.57:395][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-04.53.59:249][608]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-04.53.59:250][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.54.12:838][193]LogSlate: Window 'Bot' being destroyed
+[2022.11.09-04.54.18:449][510]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.09-04.54.20:986][658]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2022.11.09-04.54.21:057][658]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-04.54.32:287][300]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.11.09-04.54.32:288][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-04.54.34:316][387]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.09-04.54.37:332][549]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2022.11.09-04.54.42:156][810]LogContentBrowser: Attempting asset rename: ABP_Manny -> ABP_Manny
+[2022.11.09-04.54.46:098][ 33]LogViewport: Scene viewport resized to 1106x646, mode Windowed.
+[2022.11.09-04.54.47:129][ 93]BlueprintLog: New page: Compile Bot
+[2022.11.09-04.54.47:331][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.11.09-04.54.48:748][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-04.54.48:753][164]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-04.54.48:754][164]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Bot970F5A494F5B05F2DC9151BAB3B386ED.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-04.54.48:783][164]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-04.54.48:783][164]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-04.55.05:869][172]BlueprintLog: New page: Compile Bot
+[2022.11.09-04.55.06:000][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.11.09-04.55.08:971][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-04.55.08:974][330]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-04.55.08:975][330]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/BotECF11F5B428D16F486D9EE94298DE7E7.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-04.55.09:009][330]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-04.55.09:009][330]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-04.55.22:886][157]BlueprintLog: New page: Compile Bot
+[2022.11.09-04.55.23:023][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.11.09-04.55.23:497][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-04.55.23:510][176]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-04.55.23:511][176]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/BotAE156FEA4A501605FA97F18292458175.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-04.55.23:542][176]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-04.55.23:543][176]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-04.55.42:468][268]LogSlate: Took 0.000750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.09-04.55.48:997][646]BlueprintLog: New page: Compile Bot
+[2022.11.09-04.55.49:133][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.11.09-04.55.53:799][909]BlueprintLog: New page: Compile Bot
+[2022.11.09-04.55.53:928][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.11.09-04.55.54:300][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-04.55.54:305][920]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-04.55.54:306][920]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Bot9E9BD66B428AA59BA4D2F9ACAB29F0B0.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-04.55.54:335][920]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-04.55.54:335][920]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-04.56.06:822][643]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-04.56.28:805][900]BlueprintLog: New page: Compile Bot
+[2022.11.09-04.56.28:936][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.11.09-04.58.28:616][923]LogEditorTransaction: Undo Align Center
+[2022.11.09-04.58.28:954][931]LogEditorTransaction: Undo Change Number Pin Value
+[2022.11.09-04.59.58:887][165]BlueprintLog: New page: Compile Bot
+[2022.11.09-04.59.59:062][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.11.09-04.59.59:825][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-04.59.59:841][199]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-04.59.59:842][199]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Bot452E25854FBFFFB534909EAE300F63EA.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-04.59.59:871][199]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-04.59.59:871][199]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.01.02:048][824]LogEditorTransaction: Undo Add Node
+[2022.11.09-05.01.34:722][566]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.01.34:870][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.11.09-05.01.38:129][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-05.01.38:136][751]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-05.01.38:137][751]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/BotDE55ABDF4AB85CA3AAD28DB023D02C55.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-05.01.38:171][751]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-05.01.38:172][751]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.01.45:866][178]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.01.46:001][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.11.09-05.01.46:357][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-05.01.46:365][190]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-05.01.46:366][190]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/BotC15E898B42DA3299E330B2A0C3F08874.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-05.01.46:398][190]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-05.01.46:398][190]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.02.05:825][287]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Bot.Bot_C
+[2022.11.09-05.02.05:825][287]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Bot.Bot_C
+[2022.11.09-05.02.05:845][287]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Bot.Bot as actor: Bot_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.Bot_C_0
+[2022.11.09-05.02.05:850][287]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Bot.Bot as actor: Bot_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.Bot_C_0
+[2022.11.09-05.02.08:145][422]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Bot.Bot_C
+[2022.11.09-05.02.08:145][422]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Bot.Bot_C
+[2022.11.09-05.02.08:175][422]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Bot.Bot as actor: Bot_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.Bot_C_UAID_BCE92F7FD373D34701_1166791272
+[2022.11.09-05.02.08:180][422]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Bot.Bot as actor: Bot_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.Bot_C_UAID_BCE92F7FD373D34701_1166791272
+[2022.11.09-05.02.17:980][  0]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-05.02.18:305][  0]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.09-05.02.18:307][  0]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.09-05.02.18:307][  0]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.09-05.02.18:312][  0]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.09-05.02.18:313][  0]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.09-05.02.18:313][  0]LogWorldPartition: Display: GetPartitionedActors took 5 ms
+[2022.11.09-05.02.18:434][  0]LogWorldPartition: Display: GenerateStreaming took 128 ms
+[2022.11.09-05.02.18:441][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-05.02.18:441][  0]PIE: New page: PIE session: GameLevel (Nov 8, 2022, 5:02:18 PM)
+[2022.11.09-05.02.18:441][  0]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.09-05.02.20:333][  0]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.09-05.02.20:336][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (1.895534s)
+[2022.11.09-05.02.20:336][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (1.895625s)
+[2022.11.09-05.02.20:337][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-05.02.20:337][  0]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.09-05.02.20:360][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.09-05.02.20:360][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.09-05.02.20:830][  0]LogWorldPartition: Display: WorldPartition initialize took 469 ms
+[2022.11.09-05.02.20:837][  0]LogPlayLevel: PIE: World Init took: (0.500061s)
+[2022.11.09-05.02.20:897][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.11.09-05.02.20:901][  0]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.09-05.02.20:901][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-05.02.20:901][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-05.02.20:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-05.02.20:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-05.02.20:901][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-05.02.20:901][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-05.02.20:901][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-05.02.20:901][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-05.02.20:901][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-05.02.20:901][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-05.02.20:901][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-05.02.20:903][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-05.02.21:078][  0]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.09-05.02.21:078][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-05.02.21:078][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-05.02.21:078][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-05.02.21:079][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.09-05.02.21:079][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.09-05.02.21:081][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.09-05.02.21:081][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.09-05.02.21:081][  0]LogInit: FAudioDevice initialized.
+[2022.11.09-05.02.21:081][  0]LogAudio: Display: Audio Device (ID: 3) registered with world 'GameLevel'.
+[2022.11.09-05.02.21:104][  0]LogLoad: Game class is 'ActionGameGameMode'
+[2022.11.09-05.02.21:906][  0]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2022.11.08-23.02.21
+[2022.11.09-05.02.21:930][  0]LogWorld: Bringing up level for play took: 0.827520
+[2022.11.09-05.02.21:933][  0]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.11.09-05.02.21:940][  0]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-489.615 Y=-4408.538 Z=388.384
+[2022.11.09-05.02.21:940][  0]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.09-05.02.21:957][  0]PIE: Server logged in
+[2022.11.09-05.02.21:958][  0]PIE: Play in editor total start time 3.972 seconds.
+[2022.11.09-05.02.38:832][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-05.02.38:832][948]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.09-05.02.38:844][948]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-05.02.38:975][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-05.02.39:011][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-05.02.39:054][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-05.02.39:249][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-05.02.39:249][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.09-05.02.39:251][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.09-05.02.39:259][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-05.02.39:486][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.11.09-05.02.39:786][949]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.11.09-05.03.26:273][641]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.03.26:482][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.11.09-05.03.27:057][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-05.03.27:075][662]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-05.03.27:076][662]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Bot091580DB496BEF9339C315875DD85F00.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-05.03.27:105][662]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-05.03.27:105][662]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.03.27:710][699]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-05.03.28:034][699]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.09-05.03.28:035][699]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.09-05.03.28:035][699]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.09-05.03.28:042][699]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.09-05.03.28:042][699]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.09-05.03.28:042][699]LogWorldPartition: Display: GetPartitionedActors took 6 ms
+[2022.11.09-05.03.28:163][699]LogWorldPartition: Display: GenerateStreaming took 129 ms
+[2022.11.09-05.03.28:167][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-05.03.28:167][699]PIE: New page: PIE session: GameLevel (Nov 8, 2022, 5:03:28 PM)
+[2022.11.09-05.03.28:167][699]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.09-05.03.30:044][699]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.09-05.03.30:048][699]LogPlayLevel: PIE: StaticDuplicateObject took: (1.881402s)
+[2022.11.09-05.03.30:048][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (1.881497s)
+[2022.11.09-05.03.30:048][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-05.03.30:049][699]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.09-05.03.30:061][699]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.09-05.03.30:061][699]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.09-05.03.30:528][699]LogWorldPartition: Display: WorldPartition initialize took 467 ms
+[2022.11.09-05.03.30:535][699]LogPlayLevel: PIE: World Init took: (0.487173s)
+[2022.11.09-05.03.30:595][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.11.09-05.03.30:598][699]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.09-05.03.30:598][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-05.03.30:598][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-05.03.30:598][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-05.03.30:598][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-05.03.30:599][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-05.03.30:599][699]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-05.03.30:599][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-05.03.30:599][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-05.03.30:599][699]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-05.03.30:599][699]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-05.03.30:599][699]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-05.03.30:601][699]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-05.03.30:765][699]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.09-05.03.30:766][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-05.03.30:766][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-05.03.30:766][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-05.03.30:767][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.09-05.03.30:767][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.11.09-05.03.30:769][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.09-05.03.30:769][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.09-05.03.30:769][699]LogInit: FAudioDevice initialized.
+[2022.11.09-05.03.30:769][699]LogAudio: Display: Audio Device (ID: 4) registered with world 'GameLevel'.
+[2022.11.09-05.03.30:841][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-05.03.30:842][699]LogLoad: Game class is 'ActionGameGameMode'
+[2022.11.09-05.03.31:653][699]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2022.11.08-23.03.31
+[2022.11.09-05.03.31:666][699]LogWorld: Bringing up level for play took: 0.824737
+[2022.11.09-05.03.31:669][699]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.11.09-05.03.31:677][699]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-346.161 Y=-5081.840 Z=166.150
+[2022.11.09-05.03.31:677][699]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.09-05.03.31:702][699]PIE: Server logged in
+[2022.11.09-05.03.31:703][699]PIE: Play in editor total start time 3.987 seconds.
+[2022.11.09-05.03.32:059][699]LogViewport: Scene viewport resized to 1281x720, mode Windowed.
+[2022.11.09-05.03.38:906][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-05.03.38:906][ 49]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.09-05.03.38:912][ 49]LogSlate: Window 'ActionGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-05.03.38:932][ 49]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-05.03.39:041][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-05.03.39:069][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-05.03.39:112][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-05.03.39:261][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.09-05.03.39:262][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.09-05.03.39:550][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2022.11.09-05.03.39:643][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.11.09-05.03.41:799][177]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-304JBCSU
+[2022.11.09-05.03.47:041][457]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-304JBCSU
+[2022.11.09-05.03.48:423][512]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.09-05.03.48:425][512]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.09-05.03.48:425][512]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.09-05.03.48:431][512]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.09-05.03.48:431][512]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.09-05.03.48:431][512]LogWorldPartition: Display: GetPartitionedActors took 6 ms
+[2022.11.09-05.03.48:556][512]LogWorldPartition: Display: GenerateStreaming took 131 ms
+[2022.11.09-05.03.48:560][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-05.03.48:560][512]PIE: New page: SIE session: GameLevel (Nov 8, 2022, 5:03:48 PM)
+[2022.11.09-05.03.48:560][512]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.09-05.03.50:431][512]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.09-05.03.50:435][512]LogPlayLevel: PIE: StaticDuplicateObject took: (1.875589s)
+[2022.11.09-05.03.50:435][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (1.875687s)
+[2022.11.09-05.03.50:436][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-05.03.50:436][512]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.09-05.03.50:457][512]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.09-05.03.50:458][512]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.09-05.03.50:934][512]LogWorldPartition: Display: WorldPartition initialize took 476 ms
+[2022.11.09-05.03.50:941][512]LogPlayLevel: PIE: World Init took: (0.505529s)
+[2022.11.09-05.03.50:999][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.11.09-05.03.51:002][512]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.09-05.03.51:002][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-05.03.51:002][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-05.03.51:002][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-05.03.51:002][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-05.03.51:002][512]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-05.03.51:003][512]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-05.03.51:003][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-05.03.51:003][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-05.03.51:003][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-05.03.51:003][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-05.03.51:003][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-05.03.51:005][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-05.03.51:173][512]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.09-05.03.51:174][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-05.03.51:174][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-05.03.51:174][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-05.03.51:174][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.11.09-05.03.51:174][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.11.09-05.03.51:176][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.11.09-05.03.51:176][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.11.09-05.03.51:176][512]LogInit: FAudioDevice initialized.
+[2022.11.09-05.03.51:176][512]LogAudio: Display: Audio Device (ID: 5) registered with world 'GameLevel'.
+[2022.11.09-05.03.51:201][512]LogLoad: Game class is 'ActionGameGameMode'
+[2022.11.09-05.03.52:003][512]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2022.11.08-23.03.52
+[2022.11.09-05.03.52:017][512]LogWorld: Bringing up level for play took: 0.814883
+[2022.11.09-05.03.52:019][512]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.11.09-05.03.52:020][512]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-346.161 Y=-5081.840 Z=174.507
+[2022.11.09-05.03.52:020][512]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.09-05.03.52:043][512]PIE: Server logged in
+[2022.11.09-05.03.52:044][512]PIE: Play in editor total start time 3.938 seconds.
+[2022.11.09-05.03.52:256][512]LogWorldPartition: New Streaming Source: SIE -> Position: X=-541.068 Y=-4205.686 Z=3111.499
+[2022.11.09-05.04.56:356][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-05.04.56:356][225]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.09-05.04.56:368][225]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-05.04.56:486][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-05.04.56:521][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-05.04.56:566][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-05.04.56:675][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-05.04.56:759][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.09-05.04.56:761][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.09-05.04.57:002][225]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2022.11.09-05.04.57:217][226]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.11.09-05.05.27:960][972]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.05.28:165][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.11.09-05.05.28:682][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-05.05.28:690][989]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-05.05.28:690][989]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Bot0CFD587443618EEC96B7FEBD327E5C04.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-05.05.28:719][989]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-05.05.28:719][989]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.06.04:258][ 88]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.06.04:261][ 88]LogBlueprint: Error: [AssetLog] C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Content\Blueprints\Bot.uasset: [Compiler] Pin  Tile  named Tile doesn't match any parameters of function GetTile
+[2022.11.09-05.06.04:465][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.11.09-05.06.19:552][937]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.06.19:556][937]LogBlueprint: Error: [AssetLog] C:\Users\seanp\Documents\Github\UE5-Action-Game\ActionGame\Content\Blueprints\Bot.uasset: [Compiler] Pin  Tile  named Tile doesn't match any parameters of function GetTile
+[2022.11.09-05.06.19:748][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.11.09-05.06.29:056][403]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-05.06.29:056][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-05.06.30:824][494]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.06.30:825][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-05.06.39:314][974]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.06.39:511][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.11.09-05.06.59:213][137]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.06.59:414][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.11.09-05.06.59:825][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-05.06.59:832][147]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-05.06.59:833][147]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Bot583572924A889E4929DD0BBAEB97694F.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-05.06.59:867][147]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-05.06.59:867][147]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.07.27:266][774]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.07.27:487][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.11.09-05.07.32:230][ 51]LogViewport: Scene viewport resized to 1106x644, mode Windowed.
+[2022.11.09-05.07.46:739][889]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.07.46:941][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.11.09-05.07.52:794][224]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-05.08.06:714][ 21]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.08.06:938][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.11.09-05.08.07:447][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-05.08.07:454][ 36]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-05.08.07:455][ 36]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Bot47E301544775F0DE2AF8C09E8BD38F2E.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-05.08.07:490][ 36]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-05.08.07:490][ 36]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.08.17:475][607]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.11.09-05.08.17:609][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.11.09-05.08.24:182][982]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-05.08.41:297][991]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.11.09-05.08.41:439][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.11.09-05.08.41:898][  6]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.11.09-05.08.41:899][  6]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/BP_ThirdPersonCharacterA5268515451DCBD3EA38DEA9B43B676F.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.11.09-05.08.41:933][  6]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.11.09-05.08.41:933][  6]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.11.09-05.09.08:946][613]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.09.09:146][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.11.09-05.09.09:671][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-05.09.09:679][631]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-05.09.09:679][631]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/BotBF0A2C184360498BD02F6B8138AB63EA.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-05.09.09:709][631]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-05.09.09:709][631]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.09.51:635][104]BlueprintLog: New page: Compile Bot
+[2022.11.09-05.09.51:854][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.11.09-05.09.52:857][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-05.09.52:869][150]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-05.09.52:869][150]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Bot83CE17674C6CBAEAC9C55A9BC9109C9E.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-05.09.52:898][150]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-05.09.52:898][150]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.10.24:950][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.11.09-05.10.24:975][747]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/GameLevel/3/UT/51A722V2MCRTRLP3O218X4_Auto1
+[2022.11.09-05.10.24:976][747]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/51A722V2MCRTRLP3O218X4_Auto167D1475F459F2776BD38E3B2320A50E9.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Autosaves/Game/__ExternalActors__/Levels/GameLevel/3/UT/51A722V2MCRTRLP3O218X4_Auto1.uasset'
+[2022.11.09-05.10.24:979][747]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/GameLevel/4/DG/IT3U0ELYS1AO2X5SMOY3M8_Auto1
+[2022.11.09-05.10.24:979][747]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/IT3U0ELYS1AO2X5SMOY3M8_Auto1E64AA82E487F77328DC0F2B6964F0613.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Autosaves/Game/__ExternalActors__/Levels/GameLevel/4/DG/IT3U0ELYS1AO2X5SMOY3M8_Auto1.uasset'
+[2022.11.09-05.10.24:980][747]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/GameLevel' took 0.087
+[2022.11.09-05.10.24:980][747]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2022.11.09-05.10.49:679][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bot" FILE="../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset" SILENT=true
+[2022.11.09-05.10.49:687][822]LogSavePackage: Moving output files for package: /Game/Blueprints/Bot
+[2022.11.09-05.10.49:688][822]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/BotD0E4BF57482769574D60759ADDDA2457.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Bot.uasset'
+[2022.11.09-05.10.49:718][822]AssetCheck: New page: Asset Save: Bot
+[2022.11.09-05.10.49:718][822]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bot.Bot
+[2022.11.09-05.10.55:221][135]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-05.10.55:221][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-05.11.19:394][255]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2022.11.09-05.27.31:720][255]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [972374ms] waiting for h/w. InstanceID=1
+[2022.11.09-05.27.50:588][255]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2022.11.09-05.27.50:588][255]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2022.11.09-05.27.50:588][255]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2022.11.09-05.27.50:787][256]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21112
+[2022.11.09-05.27.51:214][256]LogHttp: Warning: 00000A6C774F6E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBFE23D4B-4527-070D-A302-BC9115DF739B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=ecd9199d462500b0e266799423cb059b%7C8e8ad268cb9b4032b6908372bc92a8d1%7C9867544a-8df0-4a15-b26a-8acf1de6ae14&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.09-05.27.51:215][256]LogHttp: Warning: 00000A6C774F6E00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.11.09-05.27.51:216][256]LogHttp: Warning: 00000A6C774F6E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xa6bb40c0000 [can pipeline])
+[2022.11.09-05.27.51:216][256]LogHttp: Warning: 00000A6C774F6E00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.11.09-05.27.51:216][256]LogHttp: Warning: 00000A6C774F6E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.206.49.1) port 443 (#0))
+[2022.11.09-05.27.51:216][256]LogHttp: Warning: 00000A6C774F6E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.09-05.27.51:216][256]LogHttp: Warning: 00000A6C774F6E00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.11.09-05.27.51:216][256]LogHttp: Warning: 00000A6C774F6E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.09-05.27.51:216][256]LogHttp: Warning: 00000A6C774F6E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.09-05.27.51:216][256]LogHttp: Warning: 00000A6C774F6E00: libcurl info message cache 7 (Closing connection 0)
+[2022.11.09-05.27.51:218][256]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBFE23D4B-4527-070D-A302-BC9115DF739B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=ecd9199d462500b0e266799423cb059b%7C8e8ad268cb9b4032b6908372bc92a8d1%7C9867544a-8df0-4a15-b26a-8acf1de6ae14&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.09-05.27.51:561][257]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d0a57536-1b7f-4421-adb6-5653c7d7cf9d}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=760.59
+[2022.11.09-05.27.51:561][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.09-05.27.51:573][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
