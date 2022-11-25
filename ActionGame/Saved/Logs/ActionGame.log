@@ -11135,3 +11135,539 @@ LightSaber_C.ReceiveBeginPlay
 [2022.11.25-04.00.40:106][452]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Player_LightSaber.Player_LightSaber
 [2022.11.25-04.00.40:106][452]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/AI_LightSaber.AI_LightSaber
 [2022.11.25-04.00.40:106][452]LogContentValidation: Display: Validating StaticMesh /Game/CustomModels/LightSaber.LightSaber
+[2022.11.25-04.05.11:024][ 42]LogContentBrowser: Deferred new asset file creation: LightSaber_Child
+[2022.11.25-04.05.11:041][ 42]LogContentBrowser: Creating deferred item: LightSaber_Child
+[2022.11.25-04.05.11:059][ 43]LogContentBrowser: Renaming the item being created (Deferred Item: LightSaber_Child).
+[2022.11.25-04.05.22:112][700]LogContentBrowser: Attempting asset rename: LightSaber_Child -> Player_LightSaber_Blue
+[2022.11.25-04.05.22:130][700]LogContentBrowser: End creating deferred item LightSaber_Child
+[2022.11.25-04.05.39:324][664]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.25-04.05.39:324][664]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.25-04.05.43:963][937]LogContentBrowser: Attempting asset rename: Player_LightSaber -> Player_LightSaber_Purple
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.SKEL_Player_LightSaber_Purple_C' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple_C' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.SKEL_Player_LightSaber_Purple_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.SKEL_Player_LightSaber_Purple_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:024][937]LogMetaData: Removing '/Game/Blueprints/Actors/Player_LightSaber_Purple.SKEL_Player_LightSaber_Purple_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber.PackageMetaData'
+[2022.11.25-04.05.44:503][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.11.25-04.05.44:574][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.11.25-04.05.44:642][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.25-04.05.44:654][937]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/Player_LightSaber_Purple
+[2022.11.25-04.05.44:654][937]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Player_LightSaber_PurpleE3C2A10D4BC37A7A7394D28C1AD9E511.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Actors/Player_LightSaber_Purple.uasset'
+[2022.11.25-04.05.44:762][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.11.25-04.05.44:834][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.11.25-04.05.44:903][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.25-04.05.44:928][937]AssetCheck: New page: Asset Save: Player_LightSaber_Purple
+[2022.11.25-04.05.44:928][937]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple
+[2022.11.25-04.05.47:130][ 58]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue
+[2022.11.25-04.05.47:130][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-04.05.47:618][ 58]LogViewport: Scene viewport resized to 584x283, mode Windowed.
+[2022.11.25-04.05.48:927][108]LogViewport: Scene viewport resized to 581x306, mode Windowed.
+[2022.11.25-04.05.49:043][110]LogViewport: Scene viewport resized to 461x214, mode Windowed.
+[2022.11.25-04.05.49:234][120]LogViewport: Scene viewport resized to 1141x646, mode Windowed.
+[2022.11.25-04.05.50:083][169]LogSlate: Window 'Player_LightSaber_Blue' being destroyed
+[2022.11.25-04.05.55:650][466]BlueprintLog: New page: Compile Player_LightSaber_Blue
+[2022.11.25-04.05.55:754][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.11.25-04.05.58:963][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Player_LightSaber_Purple.Player_LightSaber_Purple
+[2022.11.25-04.05.58:964][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-04.06.29:226][916]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.25-04.06.34:523][185]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue_C
+[2022.11.25-04.06.34:523][185]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue_C
+[2022.11.25-04.06.34:536][185]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue as actor: Player_LightSaber_Blue_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.Player_LightSaber_Blue_C_0
+[2022.11.25-04.06.34:539][185]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue as actor: Player_LightSaber_Blue_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.Player_LightSaber_Blue_C_0
+[2022.11.25-04.06.35:304][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue_C
+[2022.11.25-04.06.35:305][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue_C
+[2022.11.25-04.06.35:328][216]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue as actor: Player_LightSaber_Blue_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.Player_LightSaber_Blue_C_UAID_BCE92F7FD373D74C01_1549449268
+[2022.11.25-04.06.35:330][216]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue as actor: Player_LightSaber_Blue_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.Player_LightSaber_Blue_C_UAID_BCE92F7FD373D74C01_1549449268
+[2022.11.25-04.06.39:410][402]BlueprintLog: New page: Compile Player_LightSaber_Blue
+[2022.11.25-04.06.39:542][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.11.25-04.06.40:073][421]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/Player_LightSaber_Blue
+[2022.11.25-04.06.40:073][421]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/Player_LightSaber_Blue7006E3804D9B2EEC8328D0AC78BC41AF.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Actors/Player_LightSaber_Blue.uasset'
+[2022.11.25-04.06.40:106][421]AssetCheck: New page: Asset Save: Player_LightSaber_Blue
+[2022.11.25-04.06.40:106][421]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Player_LightSaber_Blue.Player_LightSaber_Blue
+[2022.11.25-04.07.24:481][846]Cmd: SELECT NONE
+[2022.11.25-04.07.29:164][ 68]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.25-04.07.29:508][ 68]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.25-04.07.29:510][ 68]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.25-04.07.29:510][ 68]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.07.29:517][ 68]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.25-04.07.29:517][ 68]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.25-04.07.29:517][ 68]LogWorldPartition: Display: GetPartitionedActors took 6 ms
+[2022.11.25-04.07.29:643][ 68]LogWorldPartition: Display: GenerateStreaming took 134 ms
+[2022.11.25-04.07.29:647][ 68]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.25-04.07.29:647][ 68]LogPlayLevel: [PlayLevel] Compiling Player_LightSaber_Purple before play...
+[2022.11.25-04.07.29:712][ 68]LogPlayLevel: [PlayLevel] Compiling AI_LightSaber before play...
+[2022.11.25-04.07.29:835][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.11.25-04.07.29:841][ 68]LogPlayLevel: PlayLevel: Blueprint regeneration took 194 ms (2 blueprints)
+[2022.11.25-04.07.29:841][ 68]PIE: New page: PIE session: GameLevel (Nov 24, 2022, 4:07:29 PM)
+[2022.11.25-04.07.29:841][ 68]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.07.31:769][ 68]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.25-04.07.31:773][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (1.932134s)
+[2022.11.25-04.07.31:773][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (1.932224s)
+[2022.11.25-04.07.31:773][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-04.07.31:773][ 68]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.25-04.07.31:787][ 68]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.25-04.07.31:787][ 68]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.25-04.07.32:277][ 68]LogWorldPartition: Display: WorldPartition initialize took 490 ms
+[2022.11.25-04.07.32:285][ 68]LogPlayLevel: PIE: World Init took: (0.511976s)
+[2022.11.25-04.07.32:366][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.11.25-04.07.32:369][ 68]LogAudio: Display: Creating Audio Device:                 Id: 125, Scope: Unique, Realtime: True
+[2022.11.25-04.07.32:369][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.25-04.07.32:369][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.25-04.07.32:369][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.25-04.07.32:369][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.25-04.07.32:369][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.25-04.07.32:369][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.25-04.07.32:369][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.25-04.07.32:369][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.25-04.07.32:369][ 68]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.25-04.07.32:370][ 68]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.25-04.07.32:370][ 68]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.25-04.07.32:372][ 68]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.25-04.07.32:544][ 68]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.25-04.07.32:544][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.25-04.07.32:544][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.25-04.07.32:544][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.25-04.07.32:545][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=125
+[2022.11.25-04.07.32:545][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=125
+[2022.11.25-04.07.32:547][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=125
+[2022.11.25-04.07.32:547][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=125
+[2022.11.25-04.07.32:547][ 68]LogInit: FAudioDevice initialized.
+[2022.11.25-04.07.32:547][ 68]LogAudio: Display: Audio Device (ID: 125) registered with world 'GameLevel'.
+[2022.11.25-04.07.32:566][ 68]LogLoad: Game class is 'ActionGameGameMode'
+[2022.11.25-04.07.33:400][ 68]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2022.11.24-22.07.33
+[2022.11.25-04.07.33:412][ 68]LogWorld: Bringing up level for play took: 0.846971
+[2022.11.25-04.07.33:415][ 68]LogOnline: OSS: Created online subsystem instance for: :Context_170
+[2022.11.25-04.07.33:422][ 68]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-15201.638 Y=-13844.670 Z=166.000
+[2022.11.25-04.07.33:422][ 68]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.07.33:451][ 68]PIE: Server logged in
+[2022.11.25-04.07.33:452][ 68]PIE: Play in editor total start time 4.281 seconds.
+[2022.11.25-04.07.44:205][647]LogBlueprintUserMessages: [Player_LightSaber_Blue_C_UAID_BCE92F7FD373D74C01_1549449268] Hello There!
+[2022.11.25-04.08.13:792][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.08.13:792][413]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.08.13:805][413]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-04.08.13:915][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.08.13:950][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.25-04.08.13:998][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.08.14:166][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.08.14:193][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=125
+[2022.11.25-04.08.14:195][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=125
+[2022.11.25-04.08.14:464][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.11.25-04.08.14:680][414]LogPlayLevel: Display: Destroying online subsystem :Context_170
+[2022.11.25-04.08.42:774][ 23]LogContentBrowser: Attempting asset rename: AI_LightSaber -> AI_LightSaber
+[2022.11.25-04.08.59:870][990]LogContentBrowser: Attempting asset rename: AI_LightSaber -> LightSaber_Red
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.LightSaber_Red:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.SKEL_LightSaber_Red_C' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.LightSaber_Red_C' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.LightSaber_Red:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.LightSaber_Red:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.LightSaber_Red:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.LightSaber_Red:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.LightSaber_Red:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.LightSaber_Red_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.SKEL_LightSaber_Red_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.SKEL_LightSaber_Red_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.SKEL_LightSaber_Red_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.08.59:932][990]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Red.SKEL_LightSaber_Red_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/AI_LightSaber.PackageMetaData'
+[2022.11.25-04.09.00:465][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.11.25-04.09.00:561][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.11.25-04.09.00:644][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.25-04.09.00:654][990]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/LightSaber_Red
+[2022.11.25-04.09.00:654][990]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/LightSaber_RedA5584D7741589A40D77101BA293E51FA.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Actors/LightSaber_Red.uasset'
+[2022.11.25-04.09.00:769][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.25-04.09.00:854][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.11.25-04.09.00:936][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.25-04.09.00:961][990]AssetCheck: New page: Asset Save: LightSaber_Red
+[2022.11.25-04.09.00:961][990]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LightSaber_Red.LightSaber_Red
+[2022.11.25-04.09.06:917][308]LogContentBrowser: Attempting asset rename: Player_LightSaber_Blue -> LightSaber_Blue
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.LightSaber_Blue:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.SKEL_LightSaber_Blue_C' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.LightSaber_Blue_C' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.LightSaber_Blue:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.LightSaber_Blue:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.LightSaber_Blue:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.LightSaber_Blue:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.LightSaber_Blue:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.SKEL_LightSaber_Blue_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.SKEL_LightSaber_Blue_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.SKEL_LightSaber_Blue_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.SKEL_LightSaber_Blue_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.06:979][308]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Blue.LightSaber_Blue_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Blue.PackageMetaData'
+[2022.11.25-04.09.07:409][308]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/LightSaber_Blue
+[2022.11.25-04.09.07:410][308]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/LightSaber_Blue582F36DB445BCBBFA7035CA448DB6500.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Actors/LightSaber_Blue.uasset'
+[2022.11.25-04.09.07:526][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.11.25-04.09.07:613][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.11.25-04.09.07:696][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.25-04.09.07:721][308]AssetCheck: New page: Asset Save: LightSaber_Blue
+[2022.11.25-04.09.07:721][308]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LightSaber_Blue.LightSaber_Blue
+[2022.11.25-04.09.10:094][411]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.25-04.09.10:094][411]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.25-04.09.13:825][629]LogContentBrowser: Attempting asset rename: Player_LightSaber_Purple -> LightSaber_Purple
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.LightSaber_Purple_C' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.SKEL_LightSaber_Purple_C' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.LightSaber_Purple:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.LightSaber_Purple:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.LightSaber_Purple:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.LightSaber_Purple:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.LightSaber_Purple:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.SKEL_LightSaber_Purple_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.SKEL_LightSaber_Purple_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.SKEL_LightSaber_Purple_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.LightSaber_Purple_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.13:888][629]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Purple.LightSaber_Purple_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/Player_LightSaber_Purple.PackageMetaData'
+[2022.11.25-04.09.14:366][629]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/LightSaber_Purple
+[2022.11.25-04.09.14:366][629]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/LightSaber_PurpleCBA761FE45240697BF8C01B24D7531FD.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Actors/LightSaber_Purple.uasset'
+[2022.11.25-04.09.14:482][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.11.25-04.09.14:566][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.11.25-04.09.14:649][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.25-04.09.14:676][629]AssetCheck: New page: Asset Save: LightSaber_Purple
+[2022.11.25-04.09.14:676][629]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LightSaber_Purple.LightSaber_Purple
+[2022.11.25-04.10.35:389][394]LogContentBrowser: Deferred new asset file creation: LightSaber_Purple1
+[2022.11.25-04.10.35:471][394]LogContentBrowser: Creating deferred item: LightSaber_Purple1
+[2022.11.25-04.10.35:493][395]LogContentBrowser: Renaming the item being created (Deferred Item: LightSaber_Purple1).
+[2022.11.25-04.10.38:657][583]LogContentBrowser: Attempting asset rename: LightSaber_Purple1 -> LightSaber_Green
+[2022.11.25-04.10.38:760][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.11.25-04.10.38:775][583]LogContentBrowser: End creating deferred item LightSaber_Purple1
+[2022.11.25-04.10.40:508][672]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green
+[2022.11.25-04.10.40:509][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-04.11.02:151][864]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.25-04.11.03:410][929]BlueprintLog: New page: Compile LightSaber_Green
+[2022.11.25-04.11.03:532][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.11.25-04.11.04:023][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/LightSaber_Green
+[2022.11.25-04.11.04:023][946]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/LightSaber_Green03CFEB7A4BD7ADD056CF2082797DA090.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Actors/LightSaber_Green.uasset'
+[2022.11.25-04.11.04:057][946]AssetCheck: New page: Asset Save: LightSaber_Green
+[2022.11.25-04.11.04:057][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green
+[2022.11.25-04.11.06:697][ 67]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green_C
+[2022.11.25-04.11.06:697][ 67]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green_C
+[2022.11.25-04.11.06:710][ 67]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green as actor: LightSaber_Green_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.LightSaber_Green_C_0
+[2022.11.25-04.11.06:713][ 67]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green as actor: LightSaber_Green_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.LightSaber_Green_C_0
+[2022.11.25-04.11.07:333][ 89]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green_C
+[2022.11.25-04.11.07:333][ 89]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green_C
+[2022.11.25-04.11.07:355][ 89]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green as actor: LightSaber_Green_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.LightSaber_Green_C_UAID_BCE92F7FD373D74C01_1821477269
+[2022.11.25-04.11.07:358][ 89]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/LightSaber_Green.LightSaber_Green as actor: LightSaber_Green_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.LightSaber_Green_C_UAID_BCE92F7FD373D74C01_1821477269
+[2022.11.25-04.11.44:454][916]Cmd: SELECT NONE
+[2022.11.25-04.12.06:751][203]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.25-04.12.07:141][203]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.25-04.12.07:142][203]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.25-04.12.07:142][203]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.12.07:148][203]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.25-04.12.07:148][203]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.25-04.12.07:148][203]LogWorldPartition: Display: GetPartitionedActors took 5 ms
+[2022.11.25-04.12.07:289][203]LogWorldPartition: Display: GenerateStreaming took 148 ms
+[2022.11.25-04.12.07:292][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.25-04.12.07:292][203]PIE: New page: PIE session: GameLevel (Nov 24, 2022, 4:12:07 PM)
+[2022.11.25-04.12.07:292][203]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.12.09:344][203]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.25-04.12.09:347][203]LogPlayLevel: PIE: StaticDuplicateObject took: (2.055110s)
+[2022.11.25-04.12.09:347][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (2.055204s)
+[2022.11.25-04.12.09:347][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-04.12.09:348][203]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.25-04.12.09:363][203]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.25-04.12.09:363][203]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.25-04.12.09:895][203]LogWorldPartition: Display: WorldPartition initialize took 532 ms
+[2022.11.25-04.12.09:903][203]LogPlayLevel: PIE: World Init took: (0.555052s)
+[2022.11.25-04.12.09:996][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.11.25-04.12.10:002][203]LogAudio: Display: Creating Audio Device:                 Id: 126, Scope: Unique, Realtime: True
+[2022.11.25-04.12.10:002][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.25-04.12.10:002][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.25-04.12.10:002][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.25-04.12.10:002][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.25-04.12.10:002][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.25-04.12.10:002][203]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.25-04.12.10:002][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.25-04.12.10:002][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.25-04.12.10:002][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.25-04.12.10:003][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.25-04.12.10:003][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.25-04.12.10:005][203]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.25-04.12.10:177][203]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.25-04.12.10:177][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.25-04.12.10:177][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.25-04.12.10:177][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.25-04.12.10:178][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=126
+[2022.11.25-04.12.10:178][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=126
+[2022.11.25-04.12.10:180][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=126
+[2022.11.25-04.12.10:180][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=126
+[2022.11.25-04.12.10:180][203]LogInit: FAudioDevice initialized.
+[2022.11.25-04.12.10:180][203]LogAudio: Display: Audio Device (ID: 126) registered with world 'GameLevel'.
+[2022.11.25-04.12.10:204][203]LogLoad: Game class is 'ActionGameGameMode'
+[2022.11.25-04.12.11:036][203]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2022.11.24-22.12.11
+[2022.11.25-04.12.11:048][203]LogWorld: Bringing up level for play took: 0.843637
+[2022.11.25-04.12.11:051][203]LogOnline: OSS: Created online subsystem instance for: :Context_176
+[2022.11.25-04.12.11:057][203]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-15201.638 Y=-13844.670 Z=166.000
+[2022.11.25-04.12.11:057][203]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.12.11:086][203]PIE: Server logged in
+[2022.11.25-04.12.11:087][203]PIE: Play in editor total start time 4.328 seconds.
+[2022.11.25-04.12.16:393][448]LogBlueprintUserMessages: [LightSaber_Green_C_UAID_BCE92F7FD373D74C01_1821477269] Hello There!
+[2022.11.25-04.12.32:136][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.12.32:136][384]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.12.32:148][384]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-04.12.32:255][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.12.32:288][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.25-04.12.32:336][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.12.32:567][384]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.25-04.12.32:567][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=126
+[2022.11.25-04.12.32:569][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=126
+[2022.11.25-04.12.32:577][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.12.32:822][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.11.25-04.12.33:056][385]LogPlayLevel: Display: Destroying online subsystem :Context_176
+[2022.11.25-04.12.54:010][408]LogContentBrowser: Deferred new asset file creation: LightSaber_Red1
+[2022.11.25-04.12.54:029][408]LogContentBrowser: Creating deferred item: LightSaber_Red1
+[2022.11.25-04.12.54:059][409]LogContentBrowser: Renaming the item being created (Deferred Item: LightSaber_Red1).
+[2022.11.25-04.12.56:946][580]LogContentBrowser: Attempting asset rename: LightSaber_Red1 -> LightSaber_Blac
+[2022.11.25-04.12.57:047][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.11.25-04.12.57:069][580]LogContentBrowser: End creating deferred item LightSaber_Red1
+[2022.11.25-04.12.58:745][656]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/LightSaber_Blac.LightSaber_Blac_C
+[2022.11.25-04.12.58:745][656]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/LightSaber_Blac.LightSaber_Blac_C
+[2022.11.25-04.12.58:758][656]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/LightSaber_Blac.LightSaber_Blac as actor: LightSaber_Blac_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.LightSaber_Blac_C_0
+[2022.11.25-04.12.58:761][656]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/LightSaber_Blac.LightSaber_Blac as actor: LightSaber_Blac_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.LightSaber_Blac_C_0
+[2022.11.25-04.12.59:334][675]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/LightSaber_Blac.LightSaber_Blac_C
+[2022.11.25-04.12.59:334][675]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/LightSaber_Blac.LightSaber_Blac_C
+[2022.11.25-04.12.59:358][675]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/LightSaber_Blac.LightSaber_Blac as actor: LightSaber_Blac_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.LightSaber_Blac_C_UAID_BCE92F7FD373D74C01_1933478270
+[2022.11.25-04.12.59:361][675]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/LightSaber_Blac.LightSaber_Blac as actor: LightSaber_Blac_C /Game/Levels/GameLevel.GameLevel:PersistentLevel.LightSaber_Blac_C_UAID_BCE92F7FD373D74C01_1933478270
+[2022.11.25-04.13.29:858][296]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/LightSaber_Blac.LightSaber_Blac
+[2022.11.25-04.13.29:858][296]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-04.13.35:988][586]LogContentBrowser: Attempting asset rename: LightSaber_Blac -> LightSaber_Black
+[2022.11.25-04.13.36:059][586]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Black.SKEL_LightSaber_Black_C' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Blac.PackageMetaData'
+[2022.11.25-04.13.36:059][586]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Black.LightSaber_Black_C' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Blac.PackageMetaData'
+[2022.11.25-04.13.36:059][586]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Black.SKEL_LightSaber_Black_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Blac.PackageMetaData'
+[2022.11.25-04.13.36:059][586]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Black.SKEL_LightSaber_Black_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Blac.PackageMetaData'
+[2022.11.25-04.13.36:059][586]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Black.SKEL_LightSaber_Black_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Blac.PackageMetaData'
+[2022.11.25-04.13.36:059][586]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Black.SKEL_LightSaber_Black_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Blac.PackageMetaData'
+[2022.11.25-04.13.36:059][586]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_Black.LightSaber_Black_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Blac.PackageMetaData'
+[2022.11.25-04.13.36:550][586]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/LightSaber_Black
+[2022.11.25-04.13.36:550][586]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/LightSaber_BlackF63E8CF74FAD3C978DA09EAD95B7E5AD.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Actors/LightSaber_Black.uasset'
+[2022.11.25-04.13.36:684][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.11.25-04.13.36:782][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.11.25-04.13.36:876][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.11.25-04.13.36:903][586]AssetCheck: New page: Asset Save: LightSaber_Black
+[2022.11.25-04.13.36:903][586]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LightSaber_Black.LightSaber_Black
+[2022.11.25-04.14.04:578][276]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.25-04.14.05:317][316]BlueprintLog: New page: Compile LightSaber_Black
+[2022.11.25-04.14.05:475][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.11.25-04.14.10:398][562]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.25-04.14.10:784][562]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.25-04.14.10:786][562]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.25-04.14.10:786][562]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.14.10:791][562]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.25-04.14.10:791][562]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.25-04.14.10:791][562]LogWorldPartition: Display: GetPartitionedActors took 4 ms
+[2022.11.25-04.14.10:925][562]LogWorldPartition: Display: GenerateStreaming took 140 ms
+[2022.11.25-04.14.10:928][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.25-04.14.10:928][562]PIE: New page: PIE session: GameLevel (Nov 24, 2022, 4:14:10 PM)
+[2022.11.25-04.14.10:928][562]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.14.12:918][562]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.25-04.14.12:922][562]LogPlayLevel: PIE: StaticDuplicateObject took: (1.993662s)
+[2022.11.25-04.14.12:922][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (1.993751s)
+[2022.11.25-04.14.12:922][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-04.14.12:922][562]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.25-04.14.12:936][562]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.25-04.14.12:936][562]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.25-04.14.13:448][562]LogWorldPartition: Display: WorldPartition initialize took 512 ms
+[2022.11.25-04.14.13:457][562]LogPlayLevel: PIE: World Init took: (0.534416s)
+[2022.11.25-04.14.13:546][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.11.25-04.14.13:550][562]LogAudio: Display: Creating Audio Device:                 Id: 127, Scope: Unique, Realtime: True
+[2022.11.25-04.14.13:550][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.25-04.14.13:550][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.25-04.14.13:550][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.25-04.14.13:550][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.25-04.14.13:550][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.25-04.14.13:550][562]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.25-04.14.13:550][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.25-04.14.13:550][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.25-04.14.13:551][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.25-04.14.13:551][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.25-04.14.13:551][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.25-04.14.13:554][562]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.25-04.14.13:722][562]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.25-04.14.13:722][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.25-04.14.13:722][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.25-04.14.13:722][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.25-04.14.13:723][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=127
+[2022.11.25-04.14.13:723][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=127
+[2022.11.25-04.14.13:725][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=127
+[2022.11.25-04.14.13:725][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=127
+[2022.11.25-04.14.13:725][562]LogInit: FAudioDevice initialized.
+[2022.11.25-04.14.13:725][562]LogAudio: Display: Audio Device (ID: 127) registered with world 'GameLevel'.
+[2022.11.25-04.14.13:751][562]LogLoad: Game class is 'ActionGameGameMode'
+[2022.11.25-04.14.14:544][562]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2022.11.24-22.14.14
+[2022.11.25-04.14.14:555][562]LogWorld: Bringing up level for play took: 0.803023
+[2022.11.25-04.14.14:557][562]LogOnline: OSS: Created online subsystem instance for: :Context_180
+[2022.11.25-04.14.14:564][562]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-15201.638 Y=-13844.670 Z=166.000
+[2022.11.25-04.14.14:565][562]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.14.14:601][562]PIE: Server logged in
+[2022.11.25-04.14.14:602][562]PIE: Play in editor total start time 4.196 seconds.
+[2022.11.25-04.14.21:652][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.14.21:652][914]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.14.21:664][914]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-04.14.21:770][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.14.21:805][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.25-04.14.21:851][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.14.22:035][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.25-04.14.22:036][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=127
+[2022.11.25-04.14.22:038][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=127
+[2022.11.25-04.14.22:046][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.14.22:334][914]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2022.11.25-04.14.22:548][915]LogPlayLevel: Display: Destroying online subsystem :Context_180
+[2022.11.25-04.14.30:650][  8]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.25-04.14.34:398][191]Cmd: SELECT NONE
+[2022.11.25-04.14.37:116][341]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.25-04.14.37:485][341]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.25-04.14.37:486][341]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.25-04.14.37:486][341]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.14.37:491][341]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.25-04.14.37:491][341]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.25-04.14.37:491][341]LogWorldPartition: Display: GetPartitionedActors took 4 ms
+[2022.11.25-04.14.37:620][341]LogWorldPartition: Display: GenerateStreaming took 134 ms
+[2022.11.25-04.14.37:623][341]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.25-04.14.37:624][341]LogPlayLevel: [PlayLevel] Compiling LightSaber_Black before play...
+[2022.11.25-04.14.37:793][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.11.25-04.14.37:800][341]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2022.11.25-04.14.37:800][341]PIE: New page: PIE session: GameLevel (Nov 24, 2022, 4:14:37 PM)
+[2022.11.25-04.14.37:832][341]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.14.39:805][341]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.25-04.14.39:808][341]LogPlayLevel: PIE: StaticDuplicateObject took: (1.976925s)
+[2022.11.25-04.14.39:808][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (1.977106s)
+[2022.11.25-04.14.39:808][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-04.14.39:809][341]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.25-04.14.39:822][341]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.25-04.14.39:823][341]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.25-04.14.40:333][341]LogWorldPartition: Display: WorldPartition initialize took 510 ms
+[2022.11.25-04.14.40:341][341]LogPlayLevel: PIE: World Init took: (0.531778s)
+[2022.11.25-04.14.40:430][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.11.25-04.14.40:433][341]LogAudio: Display: Creating Audio Device:                 Id: 128, Scope: Unique, Realtime: True
+[2022.11.25-04.14.40:433][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.25-04.14.40:433][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.25-04.14.40:433][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.25-04.14.40:433][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.25-04.14.40:433][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.25-04.14.40:433][341]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.25-04.14.40:433][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.25-04.14.40:433][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.25-04.14.40:434][341]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.25-04.14.40:434][341]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.25-04.14.40:434][341]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.25-04.14.40:436][341]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.25-04.14.40:603][341]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.25-04.14.40:603][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.25-04.14.40:603][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.25-04.14.40:603][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.25-04.14.40:604][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=128
+[2022.11.25-04.14.40:604][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=128
+[2022.11.25-04.14.40:606][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=128
+[2022.11.25-04.14.40:606][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=128
+[2022.11.25-04.14.40:606][341]LogInit: FAudioDevice initialized.
+[2022.11.25-04.14.40:606][341]LogAudio: Display: Audio Device (ID: 128) registered with world 'GameLevel'.
+[2022.11.25-04.14.40:630][341]LogLoad: Game class is 'ActionGameGameMode'
+[2022.11.25-04.14.41:411][341]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2022.11.24-22.14.41
+[2022.11.25-04.14.41:422][341]LogWorld: Bringing up level for play took: 0.793074
+[2022.11.25-04.14.41:425][341]LogOnline: OSS: Created online subsystem instance for: :Context_181
+[2022.11.25-04.14.41:433][341]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-15201.638 Y=-13844.670 Z=166.000
+[2022.11.25-04.14.41:433][341]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.14.41:462][341]PIE: Server logged in
+[2022.11.25-04.14.41:463][341]PIE: Play in editor total start time 4.339 seconds.
+[2022.11.25-04.14.51:220][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.14.51:220][853]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.14.51:232][853]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-04.14.51:350][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.14.51:383][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.25-04.14.51:432][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.14.51:619][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.25-04.14.51:619][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=128
+[2022.11.25-04.14.51:621][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=128
+[2022.11.25-04.14.51:628][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.14.51:941][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.11.25-04.14.52:154][854]LogPlayLevel: Display: Destroying online subsystem :Context_181
+[2022.11.25-04.15.01:045][112]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.25-04.15.04:298][261]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.25-04.15.04:298][261]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.25-04.15.07:674][456]LogContentBrowser: Attempting asset rename: LightSaber_Black -> LightSaber_White
+[2022.11.25-04.15.07:737][456]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_White.LightSaber_White_C' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Black.PackageMetaData'
+[2022.11.25-04.15.07:737][456]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_White.SKEL_LightSaber_White_C' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Black.PackageMetaData'
+[2022.11.25-04.15.07:737][456]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_White.SKEL_LightSaber_White_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Black.PackageMetaData'
+[2022.11.25-04.15.07:737][456]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_White.SKEL_LightSaber_White_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Black.PackageMetaData'
+[2022.11.25-04.15.07:737][456]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_White.SKEL_LightSaber_White_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Black.PackageMetaData'
+[2022.11.25-04.15.07:737][456]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_White.SKEL_LightSaber_White_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Black.PackageMetaData'
+[2022.11.25-04.15.07:737][456]LogMetaData: Removing '/Game/Blueprints/Actors/LightSaber_White.LightSaber_White_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/LightSaber_Black.PackageMetaData'
+[2022.11.25-04.15.08:213][456]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/LightSaber_White
+[2022.11.25-04.15.08:213][456]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/LightSaber_White80A26D1E47B47D2067340BB021DBBC70.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Actors/LightSaber_White.uasset'
+[2022.11.25-04.15.08:349][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.11.25-04.15.08:449][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.11.25-04.15.08:544][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.25-04.15.08:570][456]AssetCheck: New page: Asset Save: LightSaber_White
+[2022.11.25-04.15.08:570][456]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LightSaber_White.LightSaber_White
+[2022.11.25-04.15.09:939][520]Cmd: SELECT NONE
+[2022.11.25-04.15.12:895][683]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/LightSaber_White
+[2022.11.25-04.15.12:895][683]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Saved/LightSaber_White55A39C464C83AF1F8FE003BD2A9A22AD.tmp' to '../../../../../../Users/seanp/Documents/Github/UE5-Action-Game/ActionGame/Content/Blueprints/Actors/LightSaber_White.uasset'
+[2022.11.25-04.15.12:927][683]AssetCheck: New page: Asset Save: LightSaber_White
+[2022.11.25-04.15.12:927][683]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LightSaber_White.LightSaber_White
+[2022.11.25-04.15.21:279][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.25-04.15.21:680][133]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.25-04.15.21:681][133]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.25-04.15.21:681][133]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.15.21:686][133]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.25-04.15.21:687][133]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.25-04.15.21:687][133]LogWorldPartition: Display: GetPartitionedActors took 5 ms
+[2022.11.25-04.15.21:826][133]LogWorldPartition: Display: GenerateStreaming took 145 ms
+[2022.11.25-04.15.21:829][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.25-04.15.21:829][133]PIE: New page: PIE session: GameLevel (Nov 24, 2022, 4:15:21 PM)
+[2022.11.25-04.15.21:853][133]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.15.23:877][133]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.25-04.15.23:881][133]LogPlayLevel: PIE: StaticDuplicateObject took: (2.028458s)
+[2022.11.25-04.15.23:881][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (2.028627s)
+[2022.11.25-04.15.23:881][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-04.15.23:882][133]LogAIModule: Creating AISystem for world GameLevel
+[2022.11.25-04.15.23:896][133]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.25-04.15.23:896][133]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.25-04.15.24:421][133]LogWorldPartition: Display: WorldPartition initialize took 524 ms
+[2022.11.25-04.15.24:429][133]LogPlayLevel: PIE: World Init took: (0.547748s)
+[2022.11.25-04.15.24:520][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.11.25-04.15.24:523][133]LogAudio: Display: Creating Audio Device:                 Id: 129, Scope: Unique, Realtime: True
+[2022.11.25-04.15.24:523][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.25-04.15.24:523][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.25-04.15.24:523][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.25-04.15.24:523][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.25-04.15.24:523][133]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.25-04.15.24:523][133]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.25-04.15.24:523][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.25-04.15.24:523][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.25-04.15.24:524][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.25-04.15.24:524][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.25-04.15.24:524][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.25-04.15.24:526][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.25-04.15.24:696][133]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.11.25-04.15.24:696][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.25-04.15.24:696][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.25-04.15.24:696][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.25-04.15.24:697][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=129
+[2022.11.25-04.15.24:697][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=129
+[2022.11.25-04.15.24:699][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=129
+[2022.11.25-04.15.24:699][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=129
+[2022.11.25-04.15.24:699][133]LogInit: FAudioDevice initialized.
+[2022.11.25-04.15.24:699][133]LogAudio: Display: Audio Device (ID: 129) registered with world 'GameLevel'.
+[2022.11.25-04.15.24:720][133]LogLoad: Game class is 'ActionGameGameMode'
+[2022.11.25-04.15.25:534][133]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2022.11.24-22.15.25
+[2022.11.25-04.15.25:546][133]LogWorld: Bringing up level for play took: 0.825350
+[2022.11.25-04.15.25:548][133]LogOnline: OSS: Created online subsystem instance for: :Context_183
+[2022.11.25-04.15.25:556][133]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-15201.638 Y=-13844.670 Z=166.000
+[2022.11.25-04.15.25:556][133]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-04.15.25:587][133]PIE: Server logged in
+[2022.11.25-04.15.25:588][133]PIE: Play in editor total start time 4.3 seconds.
+[2022.11.25-04.17.04:941][ 16]LogBlueprintUserMessages: [LightSaber_Blac_C_UAID_BCE92F7FD373D74C01_1933478270] Hello There!
+[2022.11.25-04.17.31:784][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.17.31:784][611]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameLevel
+[2022.11.25-04.17.31:797][611]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-04.17.31:913][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.17.31:948][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.25-04.17.31:996][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-04.17.32:093][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-04.17.32:224][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=129
+[2022.11.25-04.17.32:226][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=129
+[2022.11.25-04.17.32:476][611]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2022.11.25-04.17.32:694][612]LogPlayLevel: Display: Destroying online subsystem :Context_183
